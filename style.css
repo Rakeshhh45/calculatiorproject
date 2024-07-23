@@ -1,0 +1,38 @@
+.main{
+     display: flex;
+     flex-direction: column;
+     height: 500px;
+     width: 300px;
+     background-color: black;
+     margin-left: 510px;
+     margin-top: 200px;
+}
+
+.txt{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    /* height: 50px;
+    width: 500px; */
+    
+}
+
+input{
+    height: 50px;
+    width: 250px;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    
+     
+}
+
+button{
+    border-radius: 47% ;
+    height: 50px;
+    width: 50px;
+}
